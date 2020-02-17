@@ -1,0 +1,7 @@
+# Don't track content of these folders
+data/
+.ipynb_checkpoints/
+
+#Don't track files with these endings
+*.csv
+
