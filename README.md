@@ -1,5 +1,7 @@
+# WILL GET BACK TO THIS AFTER FIRST MONTH AT NEW JOB
 # chessFormatFun
 ## TODO
+
 ### 1: Ensure No Data Loss while retaining speed
 ### 2: Complete functionality without using Pandas
 
